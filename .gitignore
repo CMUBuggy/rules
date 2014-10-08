@@ -1,0 +1,5 @@
+*.aux
+rules.out
+rules.log
+rules.toc
+*~
